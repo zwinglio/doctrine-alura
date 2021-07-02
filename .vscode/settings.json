@@ -1,0 +1,11 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "driver": "SQLite",
+            "database": "${workspaceFolder:doctrine-alura}/var/data/banco.sqlite",
+            "name": "Olá"
+        }
+    ],
+    "sqltools.useNodeRuntime": true
+}
